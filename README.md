@@ -14,7 +14,7 @@ $ cabal build
 
 ImgToAscii will take an image, resize/scale it, and output Ascii Art.
 
-You can run: `ImgToAscii --help` to have read all the vailable options:
+You can run: `ImgToAscii --help` to read all the available options:
 
 ```
 Simple conversion from an Image to Ascii Art
